@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aymenn-ux Portfolio</title>
+  <style>
+    /* Import Google Fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;500&display=swap');
+    :root {
+      --bg-color: #0a0a0a;
+      --primary-color: #22d1ee;
+      --secondary-color: #ffffff;
+      --accent-color: #00ffa1;
+      --transition-speed: 0.3s;
+    }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: var(--bg-color);
+      color: var(--secondary-color);
+      line-height: 1.6;
+      scroll-behavior: smooth;
+    }
+    a {
+      color: var(--accent-color);
+      text-decoration: none;
+    }
+    nav {
+      position: sticky;
+      top: 0;
+      width: 100%;
+      background: rgba(0,0,0,0.8);
+      backdrop-filter: blur(5px);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 100;
+    }
+    nav .logo {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.5rem;
+      color: var(--accent-color);
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 1.5rem;
+    }
+    nav ul li a {
+      font-weight: 500;
+      transition: color var(--transition-speed);
+    }
+    nav ul li a:hover {
+      color: var(--primary-color);
+    }
+    header, section {
+      padding: 4rem 2rem;
+    }
+    header {
+      background: linear-gradient(120deg, rgba(10,10,10,0.9), rgba(30,30,30,0.9));
+    }
+    header h1 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+      color: var(--accent-color);
+    }
+    header p {
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+    #projects h2 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      color: var(--accent-color);
+    }
+    #projects .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 2rem;
+    }
+    .project-card {
+      background: #111;
+      border: 2px solid #222;
+      border-radius: 8px;
+      padding: 1.5rem;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .project-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0, 255, 161, 0.2);
+    }
+    .project-card h3 {
+      margin-bottom: 0.5rem;
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.3rem;
+      color: var(--accent-color);
+    }
+    .project-card p {
+      margin-bottom: 0.8rem;
+      font-size: 0.95rem;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.5rem;
+    }
+    .tag {
+      background: var(--primary-color);
+      color: #000;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+    #ai h2 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      color: var(--accent-color);
+    }
+    #ai p {
+      font-size: 1rem;
+      margin-bottom: 0.7rem;
+    }
+    #contact h2 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      color: var(--accent-color);
+    }
+    #contact ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    #contact ul li {
+      margin-bottom: 0.5rem;
+    }
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      header p {
+        font-size: 1rem;
+      }
+      nav {
+        flex-direction: column;
+        gap: 0.8rem;
+      }
+      nav ul {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="logo">Aymenn-ux</div>
+    <ul>
+      <li><a href="#about">About Me</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#ai">AI Work</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <header id="about">
+    <h1>About Me</h1>
+    <p>Hello! I'm a passionate developer focusing on web and embedded systems. I enjoy building practical projects like inventory and library management tools. I also have a strong interest in artificial intelligence and machine learning, and I'm continually learning new technologies in those areas.</p>
+  </header>
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="projects-grid" id="projects-grid">
+      <!-- Project cards will be injected here -->
+    </div>
+  </section>
+  <section id="ai">
+    <h2>AI Work</h2>
+    <p>While my current public projects focus on web and systems development, I'm actively exploring AI and machine learning. I'm learning about neural networks, natural language processing, and other AI technologies. Check back soon for updates on AI-related projects!</p>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <ul>
+      <li><a href="https://github.com/Aymenn-ux" target="_blank">GitHub: @Aymenn-ux</a></li>
+      <li><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></li>
+      <li><a href="mailto:someone@example.com">Email: someone@example.com</a></li>
+    </ul>
+  </section>
+  <script>
+    // Fetch public repositories from GitHub API and display them
+    document.addEventListener('DOMContentLoaded', () => {
+      const projectsGrid = document.getElementById('projects-grid');
+      fetch('https://api.github.com/users/Aymenn-ux/repos')
+        .then(response => response.json())
+        .then(repos => {
+          // Sort repositories by last updated date (newest first)
+          repos.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+          repos.forEach(repo => {
+            // Create a card for each repository
+            const card = document.createElement('div');
+            card.className = 'project-card';
+            // Title with link
+            const title = document.createElement('h3');
+            const link = document.createElement('a');
+            link.href = repo.html_url;
+            link.target = '_blank';
+            link.textContent = repo.name;
+            title.appendChild(link);
+            // Description
+            const desc = document.createElement('p');
+            desc.textContent = repo.description || 'No description provided.';
+            // Tags for tech stack (use primary language and keywords)
+            const tagsDiv = document.createElement('div');
+            tagsDiv.className = 'tags';
+            if (repo.language) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = repo.language;
+              tagsDiv.appendChild(tag);
+            }
+            const descLower = (repo.description || '').toLowerCase();
+            if (descLower.includes('flask')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Flask';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('mongodb')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'MongoDB';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('bootstrap')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Bootstrap';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('arduino')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Arduino';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('rfid')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'RFID';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('java')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Java';
+              tagsDiv.appendChild(tag);
+            }
+            // Assemble card
+            card.appendChild(title);
+            card.appendChild(desc);
+            if (tagsDiv.children.length > 0) {
+              card.appendChild(tagsDiv);
+            }
+            projectsGrid.appendChild(card);
+          });
+        })
+        .catch(error => {
+          console.error('Error fetching repositories:', error);
+        });
+    });
+  </script>
+</body>
+</html>
