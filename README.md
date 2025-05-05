@@ -43,7 +43,7 @@ Artificial intelligence fascinates me. I enjoy exploring how machines can learn,
 Feel free to reach out:
 
 - GitHub: [Aymenn-ux](https://github.com/Aymenn-ux)
-- Email: *Add your email here if you'd like*
+- Email: aymanjabbar17@gmail.com
 
 ---
 
