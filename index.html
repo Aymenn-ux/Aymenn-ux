@@ -172,7 +172,6 @@
 
   <script>
     const githubUsername = "Aymenn-ux";
-    const excludedRepos = ["Aymenn-ux"]; // ← Exclude this one
 
     fetch(`https://api.github.com/users/${githubUsername}/repos`)
       .then(response => response.json())
@@ -180,7 +179,6 @@
         const projectsGrid = document.getElementById("projects-grid");
 
         repos
-          .filter(repo => !excludedRepos.includes(repo.name))
           .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
           .forEach(repo => {
             const card = document.createElement("div");
