@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Aymenn-ux Portfolio</title>
   <style>
+    /* Import Google Fonts */
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;500&display=swap');
     :root {
       --bg-color: #0a0a0a;
@@ -170,35 +171,110 @@
       <li><a href="#contact">Contact</a></li>
     </ul>
   </nav>
-
   <header id="about">
     <h1>About Me</h1>
     <p>Hello! I'm a passionate developer focusing on web and embedded systems. I enjoy building practical projects like inventory and library management tools. I also have a strong interest in artificial intelligence and machine learning, and I'm continually learning new technologies in those areas.</p>
   </header>
-
   <section id="projects">
     <h2>Projects</h2>
-    <div class="projects-grid">
-      <!-- You can manually add static project cards here if needed -->
-      <!-- Example:
-      <div class="project-card">
-        <h3><a href="https://github.com/Aymenn-ux/your-project" target="_blank">Your Project</a></h3>
-        <p>Short project description.</p>
-        <div class="tags">
-          <span class="tag">HTML</span>
-          <span class="tag">CSS</span>
-        </div>
-      </div>
-      -->
+    <div class="projects-grid" id="projects-grid">
+      <!-- Project cards will be injected here -->
     </div>
   </section>
-
   <section id="ai">
     <h2>AI Work</h2>
     <p>While my current public projects focus on web and systems development, I'm actively exploring AI and machine learning. I'm learning about neural networks, natural language processing, and other AI technologies. Check back soon for updates on AI-related projects!</p>
   </section>
-
   <section id="contact">
     <h2>Contact</h2>
     <ul>
-      <li><a href="https://github.com/Aymenn-ux" target="_blank">GitHub:_
+      <li><a href="https://github.com/Aymenn-ux" target="_blank">GitHub: @Aymenn-ux</a></li>
+      <li><a href="https://www.linkedin.com/in/aymen-jabbar-b4a150340/" target="_blank">LinkedIn</a></li>
+      <li><a href="mailto:aymen.jabbar@eidia.ueuromed.org">Email: aymen.jabbar@eidia.ueuromed.org</a></li>
+    </ul>
+  </section>
+  <script>
+    // Fetch public repositories from GitHub API and display them
+    document.addEventListener('DOMContentLoaded', () => {
+      const projectsGrid = document.getElementById('projects-grid');
+      fetch('https://api.github.com/users/Aymenn-ux/repos')
+        .then(response => response.json())
+        .then(repos => {
+          // Sort repositories by last updated date (newest first)
+          repos.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+          repos.forEach(repo => {
+            // Create a card for each repository
+            const card = document.createElement('div');
+            card.className = 'project-card';
+            // Title with link
+            const title = document.createElement('h3');
+            const link = document.createElement('a');
+            link.href = repo.html_url;
+            link.target = '_blank';
+            link.textContent = repo.name;
+            title.appendChild(link);
+            // Description
+            const desc = document.createElement('p');
+            desc.textContent = repo.description || 'No description provided.';
+            // Tags for tech stack (use primary language and keywords)
+            const tagsDiv = document.createElement('div');
+            tagsDiv.className = 'tags';
+            if (repo.language) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = repo.language;
+              tagsDiv.appendChild(tag);
+            }
+            const descLower = (repo.description || '').toLowerCase();
+            if (descLower.includes('flask')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Flask';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('mongodb')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'MongoDB';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('bootstrap')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Bootstrap';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('arduino')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Arduino';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('rfid')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'RFID';
+              tagsDiv.appendChild(tag);
+            }
+            if (descLower.includes('java')) {
+              const tag = document.createElement('span');
+              tag.className = 'tag';
+              tag.textContent = 'Java';
+              tagsDiv.appendChild(tag);
+            }
+            // Assemble card
+            card.appendChild(title);
+            card.appendChild(desc);
+            if (tagsDiv.children.length > 0) {
+              card.appendChild(tagsDiv);
+            }
+            projectsGrid.appendChild(card);
+          });
+        })
+        .catch(error => {
+          console.error('Error fetching repositories:', error);
+        });
+    });
+  </script>
+</body>
+</html>
