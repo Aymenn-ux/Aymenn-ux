@@ -8,9 +8,23 @@ As a tech enthusiast, I love transforming ideas into practical solutions. My pro
 
 ## 🛠️ Tools & Technologies
 
-- **AI/ML:** TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn
-- **Languages:** Python, Java, C/C++, JavaScript, HTML/CSS
-- **Frameworks & Tools:** Flask, MongoDB, Bootstrap, FPDF, Arduino
+### Langages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-00B2A9?logo=mongodb&logoColor=white)
+
+### Outils & Plateformes
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
 
 ---
 
