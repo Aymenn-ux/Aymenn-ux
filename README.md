@@ -46,6 +46,14 @@ Here are some of the projects I’ve worked on:
 
 ---
 
+📊 Statistiques GitHub
+
+![Aymenn-ux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aymenn-ux&theme=radical)
+
+---
+
 ## 🧠 AI is my playground
 
 Artificial intelligence fascinates me. I enjoy exploring how machines can learn, see, and think. From image processing to data analysis, I'm constantly building and learning.
