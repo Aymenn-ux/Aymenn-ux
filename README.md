@@ -27,7 +27,7 @@ Here are some of the projects I’ve worked on:
 - 📚 **[Library System Management](https://github.com/Aymenn-ux/Library-System-Management)**  
   Java application for managing library operations, books, and user interactions.
 
-- 🌐 **[Portfolio Website](https://github.com/Aymenn-ux/Aymenn-ux)**  
+- 🌐 **[Portfolio Website](https://aymenn-ux.github.io/Aymenn-ux/)**  
   Simple and elegant website built with HTML/CSS to showcase my work and skills.
 
 ---
