@@ -17,6 +17,7 @@ As a tech enthusiast, I love transforming ideas into practical solutions. My pro
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-00B2A9?logo=mongodb&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
 
 ### Outils & Plateformes
 
