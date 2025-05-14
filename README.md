@@ -51,7 +51,7 @@ Here are some of the projects I’ve worked on:
 
 ![Aymenn-ux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aymenn-ux&theme=radical)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -66,20 +66,10 @@ Artificial intelligence fascinates me. I enjoy exploring how machines can learn,
 Feel free to reach out:
 
 - GitHub: [Aymenn-ux](https://github.com/Aymenn-ux)
-- Email: aymanjabbar17@gmail.com
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-jabbar-b4a150340/) 
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:aymenjabbar17@gmail.com)  
+![Profile Views](https://komarev.com/ghpvc/?username=Aymenn-ux)
 ---
 
 ⭐️ *Thanks for visiting my profile! Have a great day!*
-
-![Aymenn-ux’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aymenn-ux&theme=github-compact)
-
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aymenn-ux) 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:aymenn@example.com)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aymenn-ux)
 
