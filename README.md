@@ -71,9 +71,9 @@ Feel free to reach out:
 ---
 
 ⭐️ *Thanks for visiting my profile! Have a great day!*
-[![Aymenn-ux’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Aymenn-ux’s Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aymenn-ux&theme=github)
+![Aymenn-ux’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aymenn-ux&theme=github-compact)
+
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
 
