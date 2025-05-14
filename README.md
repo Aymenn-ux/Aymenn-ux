@@ -65,7 +65,7 @@ Artificial intelligence fascinates me. I enjoy exploring how machines can learn,
 
 Feel free to reach out:
 
-- GitHub: [Aymenn-ux](https://github.com/Aymenn-ux)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-jabbar-b4a150340/) 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white)](mailto:aymenjabbar17@gmail.com)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Aymenn-ux)
