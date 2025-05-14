@@ -71,21 +71,11 @@ Feel free to reach out:
 ---
 
 ⭐️ *Thanks for visiting my profile! Have a great day!*
-## GitHub Stats & Activity  
-<p align="center">
-  [![Aymenn-ux’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Aymenn-ux’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  ![Aymenn-ux’s Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aymenn-ux&theme=github)
-</p>
+![Aymenn-ux’s Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aymenn-ux&theme=github)
 
-<p align="center">
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
----
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aymenn-ux) 
