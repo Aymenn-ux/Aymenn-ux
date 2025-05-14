@@ -47,11 +47,17 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-📊 Statistiques GitHub
 
-![Aymenn-ux's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=radical)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=onelight)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+
+![Aymenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=gruvbox)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=gruvbox)
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
