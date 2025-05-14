@@ -50,13 +50,14 @@ Here are some of the projects I’ve worked on:
 
 ## 📊 GitHub Stats
 
-![Aymenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical)
+![Aymenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Aymenn-ux&theme=radical&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
@@ -66,7 +67,11 @@ Here are some of the projects I’ve worked on:
 Artificial intelligence fascinates me. I enjoy exploring how machines can learn, see, and think. From image processing to data analysis, I'm constantly building and learning.
 
 ---
+🐍 Contribution Snake
 
+![Snake Animation](https://raw.githubusercontent.com/Aymenn-ux/Aymenn-ux/output/github-contribution-grid-snake.svg)
+
+---
 ## 📫 Let's Connect
 
 Feel free to reach out:
