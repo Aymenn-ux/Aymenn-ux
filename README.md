@@ -29,25 +29,26 @@ Focused on **Computer Vision, NLP, and AI-powered applications**.
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
-`Python` · `C` · `C++` · `Java` · `JavaScript` · `SQL` · `R` · `MATLAB`
+### 💻 Languages & Technologies
 
-### 🤖 AI / ML
-`TensorFlow` · `OpenCV` · `Scikit-learn` · `Pandas` · `NumPy`
-
-### 🌐 Web Development
-`Flask` · `HTML` · `CSS` · `JavaScript`
-
-### 🛠️ Tools & Platforms
-`Git` · `Linux` · `Arduino` · `Blender` · `Anaconda` · `MongoDB` · `MySQL`
-
----
-
-## 📊 GitHub Stats
-
-![Aymen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aymenn-ux&show_icons=true&theme=algolia)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenn-ux&layout=compact&theme=algolia)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF0000?logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
 
 ---
 
