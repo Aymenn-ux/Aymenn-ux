@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aymen
 
-🎓 **Fourth-year AI Engineering Student @ UEMF**  
+🎓 **Fourth-year AI Engineering Student **  
 💻 **AI & Full-Stack Developer**
 
 I build intelligent systems and real-world applications — from data processing and model training to web deployment.  
