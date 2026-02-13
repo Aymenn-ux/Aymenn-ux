@@ -4,69 +4,42 @@
 💻 **AI & Full-Stack Developer**
 
 I build intelligent systems and real-world applications — from data processing and model training to web deployment.  
-My main focus is **Computer Vision, NLP, and AI-powered applications**.
+Focused on **Computer Vision, NLP, and AI-powered applications**.
 
-🚀 Currently looking for **internships, startup opportunities, and impactful AI projects**
-
----
-
-## 🚀 Featured Projects
-
-### 🌿 Plant Disease Classification (Deep Learning)
-- CNN model to detect plant diseases from leaf images (PlantVillage dataset)
-- Full pipeline: preprocessing → training → evaluation  
-- **Tech:** TensorFlow, Python  
-- 📊 Focus: accuracy improvement & model performance  
+🚀 Open to **internships, startup opportunities, and AI projects**
 
 ---
 
-### 📄 AI Resume Analyzer (CV Parser)
-- Web app that extracts information from CVs and ranks candidates using semantic similarity  
-- Uses NLP + Sentence Transformers  
-- **Tech:** Flask, Python, NLP  
+## 🚀 Highlight Projects
 
----
+| Project | Tech Stack |
+|--------|-----------|
+| 🚀 **[DeepFAKE Detection](https://github.com/Aymenn-ux/DeepFake-Detection)** | `Keras` · `Python (Flask)` · `CNN` |
+| 📄 **[AI Resume Analyzer](https://github.com/Aymenn-ux/cvparser)** | `OCR` · `Flask` · `TF-IDF` · `Scikit-learn` |
+| 😀 **[Image to Emoji (DeepFace)](https://github.com/Aymenn-ux/Image-to-Emoji)** | `Python` · `Flask` · `OpenCV` · `Deep Learning` |
+| 📚 **[Library Management System](https://github.com/Aymenn-ux/Library-System-Management)** | `Java` · `JavaFX` · `MySQL` |
+| 📦 **[Inventory Management System](https://github.com/Aymenn-ux/Inventory-Management-System)** | `Python` · `Flask` · `MongoDB` · `HTML/CSS` |
+| 🔐 **[Smart Safe (Arduino)](https://github.com/Aymenn-ux/coffre-fort)** | `Arduino` · `Embedded Systems` · `RFID` |
+| 🚌 **[Bus Route Optimization](https://github.com/Aymenn-ux/Bus-Route-Optimization)** | `Python` · `Graph Algorithms` |
+| 🌿 **[Plant Disease Classification](https://github.com/Aymenn-ux/Plant-Disease-Classification)** | `TensorFlow` · `CNN` · `Deep Learning` |
 
-### 😀 Image-to-Emoji (Facial Expression Recognition)
-- Real-time facial emotion detection from webcam → mapped to emojis  
-- **Tech:** OpenCV, CNN  
-
----
-
-### 📦 Inventory Management System
-- Full-stack CRUD system with authentication and dashboard  
-- **Tech:** Flask, MongoDB, HTML/CSS  
-
----
-
-### 🔐 Smart Safe (Arduino Project)
-- Secure safe system with RFID + keypad authentication  
-- **Tech:** Arduino, Embedded Systems  
-
----
-
-### 🚌 Bus Route Optimization System
-- Optimizes routes using graph algorithms (shortest path & heuristics)  
-- **Tech:** Python  
+> 🚀 These projects showcase my work in AI, full-stack development, and real-world problem solving.
 
 ---
 
 ## 🧠 Tech Stack
 
-**AI / ML:**  
-Python, TensorFlow, OpenCV, Scikit-learn  
+### 💻 Languages
+`Python` · `C` · `C++` · `Java` · `JavaScript` · `SQL` · `R` · `MATLAB`
 
-**Backend:**  
-Flask, REST APIs  
+### 🤖 AI / ML
+`TensorFlow` · `OpenCV` · `Scikit-learn` · `Pandas` · `NumPy`
 
-**Frontend:**  
-HTML, CSS, JavaScript  
+### 🌐 Web Development
+`Flask` · `HTML` · `CSS` · `JavaScript`
 
-**Databases:**  
-MongoDB, SQL  
-
-**Other:**  
-C, C++, Java, Linux, Arduino  
+### 🛠️ Tools & Platforms
+`Git` · `Linux` · `Arduino` · `Blender` · `Anaconda` · `MongoDB` · `MySQL`
 
 ---
 
@@ -80,13 +53,14 @@ C, C++, Java, Linux, Arduino
 
 ## 🧠 About Me
 
-I’m passionate about building AI systems that solve real problems.  
+I’m passionate about building AI systems that solve real-world problems.  
 I enjoy working on:
-- Computer Vision 👁️  
-- NLP & intelligent systems 🧠  
-- Full-stack AI applications 🌐  
 
-I learn fast, build consistently, and aim to create impactful solutions.
+- 👁️ Computer Vision  
+- 🧠 NLP & intelligent systems  
+- 🌐 Full-stack AI applications  
+
+I focus on **learning fast, building real projects, and creating impactful solutions.**
 
 ---
 
